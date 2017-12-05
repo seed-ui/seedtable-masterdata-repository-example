@@ -1,0 +1,7 @@
+data1001:
+  id: 1001
+  quest_group_id: 1
+  __quest_group_name: 出会い
+  name: 最初のクエスト
+  level: 1
+  round: 2
