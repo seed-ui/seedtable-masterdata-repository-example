@@ -1,2 +1,2 @@
-SeedPath: ../../seeds/
+SeedPath: ../../master_data/
 SettingPath: ./options.yml
