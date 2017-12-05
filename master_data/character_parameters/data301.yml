@@ -1,6 +1,7 @@
 data301:
   id: 301
   character_id: 3
+  __name: さっちゃんさん
   level: 1
   max_hp: 50
   max_mp: 0

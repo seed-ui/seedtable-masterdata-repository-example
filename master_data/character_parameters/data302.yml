@@ -1,6 +1,7 @@
 data302:
   id: 302
   character_id: 3
+  __name: さっちゃんさん
   level: 2
   max_hp: 80
   max_mp: 0

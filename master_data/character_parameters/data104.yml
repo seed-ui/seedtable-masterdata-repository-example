@@ -1,6 +1,7 @@
 data104:
   id: 104
   character_id: 1
+  __name: さくら
   level: 4
   max_hp: 200
   max_mp: 50

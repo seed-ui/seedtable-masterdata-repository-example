@@ -1,6 +1,7 @@
 data204:
   id: 204
   character_id: 2
+  __name: アルル
   level: 4
   max_hp: 500
   max_mp: 180
