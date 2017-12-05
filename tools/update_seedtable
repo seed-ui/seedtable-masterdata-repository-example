@@ -1,0 +1,12 @@
+#!/bin/sh
+
+mkdir -p tools/seedtable
+curl -L https://github.com/seed-ui/seedtable/releases/latest |\
+  grep "seedtable.zip" |\
+  grep href |\
+  perl -ple "s/^[^\"]+\"//" |\
+  perl -ple "s/\".*//" |\
+  perl -ple "s/^/https:\/\/github.com/" |\
+  xargs curl -L -o seedtable.zip
+unzip -o -d tools/seedtable seedtable.zip
+rm seedtable.zip
