@@ -70,6 +70,9 @@ seedtableを動かすためにmonoがいるので、 http://www.mono-project.com
 
 あとどうもbrewのやつはダメっぽいです。
 
+またGUI版はseedtableのreadmeにあるように文字化けします。
+これmonoでは解消しようがないらしいので英語版を作るなどでお茶を濁したい気持ちでいます。
+
 ## License
 
 [MIT License](https://narazaka.net/license/MIT?2017)
