@@ -50,6 +50,10 @@
 - A:AやA:Dなど行指定なしの範囲指定はエラーになります。`$`固定の範囲を取ることで回避できます。
     - 例: A:AであればA$1:A$100000とか
 
+### その他
+
+- [seedtableのreadme](https://github.com/seed-ui/seedtable)を見てください。
+
 ## seedtableアップデート方法
 
 エンジニアで判断して`tools/update_seedtable`を叩いてコミットしてください。
