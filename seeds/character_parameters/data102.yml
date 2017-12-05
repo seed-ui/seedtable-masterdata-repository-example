@@ -1,0 +1,6 @@
+data102:
+  id: 102
+  character_id: 1
+  level: 2
+  max_hp: 120
+  max_mp: 50

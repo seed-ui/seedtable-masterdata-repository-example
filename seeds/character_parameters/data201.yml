@@ -1,0 +1,6 @@
+data201:
+  id: 201
+  character_id: 2
+  level: 1
+  max_hp: 200
+  max_mp: 100
