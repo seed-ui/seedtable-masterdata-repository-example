@@ -1,6 +1,8 @@
 subdivide:
   - "*:0"
 ignore-columns:
-  - "__*"
+  - __dummy
+ignore:
+  - __*
 engine: EPPlus
 delete: true
