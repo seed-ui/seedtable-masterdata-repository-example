@@ -1,7 +1,7 @@
 data103:
   id: 103
   character_id: 1
-  __name: さくら
+  __name: うにゅう
   level: 3
-  max_hp: 150
-  max_mp: 50
+  max_hp: 130
+  max_mp: 25

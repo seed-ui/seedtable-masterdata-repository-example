@@ -1,7 +1,7 @@
 data101:
   id: 101
   character_id: 1
-  __name: さくら
+  __name: うにゅう
   level: 1
-  max_hp: 100
-  max_mp: 50
+  max_hp: 80
+  max_mp: 25
